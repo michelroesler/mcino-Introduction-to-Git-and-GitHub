@@ -1,0 +1,4 @@
+miguel@MacBook-Pro-M4 mcino-Introduction-to-Git-and-GitHub % git branch -vv
+* bug-fix-revert 063c059 [origin/bug-fix-revert] Revert "fix typo in readme.md"
+  bug-fix-typo   9a21211 [origin/bug-fix-typo] fix typo in readme.md
+  main           9a21211 [origin/main: ahead 1] fix typo in readme.md

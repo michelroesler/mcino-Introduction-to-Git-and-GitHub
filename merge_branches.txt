@@ -1,0 +1,12 @@
+miguel@MacBook-Pro-M4 mcino-Introduction-to-Git-and-GitHub % git switch main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+miguel@MacBook-Pro-M4 mcino-Introduction-to-Git-and-GitHub % git pull origin main
+From https://github.com/michelroesler/mcino-Introduction-to-Git-and-GitHub
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+miguel@MacBook-Pro-M4 mcino-Introduction-to-Git-and-GitHub % git merge bug-fix-typo
+Updating ad95b0a..9a21211
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)

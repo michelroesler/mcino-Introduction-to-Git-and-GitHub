@@ -1,0 +1,6 @@
+curl -s https://api.github.com/repos/michelroesler/mcino-Introduction-to-Git-and-GitHub | jq '{fork, parent: .parent.full_name}'
+
+{
+    "fork": true,
+    "parent": "ibm-developer-skills-network/mcino-Introduction-to_Git-and-GitHub"
+}
